@@ -1,3 +1,4 @@
+                                                // ARCANOID
 #include <stdbool.h> // для bool
 #include <math.h> // для cos sin
 #include <unistd.h> // для usleep
